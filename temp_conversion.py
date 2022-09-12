@@ -18,6 +18,7 @@ def convert_0_to_celsius():
     celsius_0 = (fahr - 32) * 5 / 9
     print(celsius_0)
 
+
 def convert_34_2_to_celsius():
     # Convert a temperature of 34.2 degrees fahrenheit to celsius
     # Do this one all in one print statement without saving any variables
@@ -32,6 +33,7 @@ def convert_5_to_fahrenheit():
     cels = 5
     fahr_5 = (cels * (9/5)) + 32
     print(fahr_5)
+
 
 def hotter_temp():
     # What is hotter, a temperature of 30.2 degrees celsius, or a temperature of 85.1 degrees fahrenheit?
